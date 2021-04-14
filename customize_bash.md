@@ -3,7 +3,7 @@
 sudo apt update && sudo apt upgrade 
 sudo apt install imagemagick 
 sudo apt install python3-pip
-sudo apt pip3 install pywal
+sudo pip3 install pywal
 ```
 # Is necessary to setting the bash and put the path direction  of image background
 ```
