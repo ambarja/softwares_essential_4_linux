@@ -26,3 +26,4 @@ http://localhost:8080/geoserver/
 ```
 #### Reference:
 * https://www.igismap.com/install-geoserver-ubuntu/
+* https://medium.com/random-gis-talks/installing-geoserver-binary%EF%B8%8F-on-ubuntu-18-04-using-terminal-ff9429ab47fa
