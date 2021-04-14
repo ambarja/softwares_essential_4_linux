@@ -24,3 +24,5 @@ cd /usr/share/geoserver/bin
 sh startup.sh
 http://localhost:8080/geoserver/
 ```
+#### Reference:
+* https://www.igismap.com/install-geoserver-ubuntu/
