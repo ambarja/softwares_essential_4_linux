@@ -7,3 +7,11 @@ sudo apt install gnome tweak-tool
 ```
 gsettings set org.gnome.desktop.wm.preferences button-layout "close,minimize,maximize:"
 ```
+# Theme
+```
+Sweet-Ambar-Blue
+```
+# Icons
+```
+Tela
+```
