@@ -2,6 +2,11 @@
 ```
 sudo apt install gnome tweak-tool
 ```
+### Other options if you don't find tweak-tool
+```
+sudo apt-get update && sudo apt-get upgrade 
+sudo apt-get install gnome-shell gnome-shell-extensions gnome-tweak-tool
+```
 
 ### If don't appear this icons in your window buttoms
 ```
