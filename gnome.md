@@ -12,6 +12,14 @@ sudo apt-get install gnome-shell gnome-shell-extensions gnome-tweak-tool
 ```
 gsettings set org.gnome.desktop.wm.preferences button-layout "close,minimize,maximize:"
 ```
+
+### Manager of update software
+
+```
+sudo apt-get install update-manager synaptic
+
+```
+
 ### Theme
 ```
 Sweet-Ambar-Blue
