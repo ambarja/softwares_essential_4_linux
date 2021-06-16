@@ -19,7 +19,7 @@ rm geoserver-2.18.1-bin.zip
 
 ```
 echo “export GEOSERVER_HOME=/usr/share/geoserver”
-sudo chown -R USER_NAME /usr/share/geoserver/
+sudo "chown -R USER_NAME /usr/share/geoserver/"
 cd /usr/share/geoserver/bin
 sh startup.sh
 http://localhost:8080/geoserver/
