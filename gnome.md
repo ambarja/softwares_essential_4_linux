@@ -26,5 +26,18 @@ Sweet-Ambar-Blue
 ```
 ### Icons (https://github.com/vinceliuice/Tela-icon-theme)
 ```
-Tela
+Tela circle
 ```
+## Effects
+#### Tobar
+* https://extensions.gnome.org/extension/545/hide-top-bar/ 
+
+#### windows effects
+* https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/
+* https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/
+
+
+
+
+
+
