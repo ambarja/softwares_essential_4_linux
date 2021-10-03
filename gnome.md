@@ -36,8 +36,10 @@ Tela circle
 * https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/
 * https://extensions.gnome.org/extension/2950/compiz-alike-windows-effect/
 
-
-
+### API of google earth pro
+``
+wget https://dl.google.com/linux/linux_signing_key.pub
+```
 
 
 
