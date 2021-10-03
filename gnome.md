@@ -24,7 +24,7 @@ sudo apt-get install update-manager synaptic
 ```
 Sweet-Ambar-Blue
 ```
-### Icons
+### Icons (https://github.com/vinceliuice/Tela-icon-theme)
 ```
 Tela
 ```
