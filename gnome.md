@@ -15,10 +15,19 @@ gsettings set org.gnome.desktop.wm.preferences button-layout "close,minimize,max
 
 ### Manager of update software
 
+Opción 01:
 ```
 sudo apt-get install update-manager synaptic
 
 ```
+
+Opción02:
+```
+sudo apt update && sudo apt full-upgrade
+software-properties-gtk
+```
+
+
 
 ### Theme
 ```
