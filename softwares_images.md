@@ -7,7 +7,7 @@ sudo apt install ksnip
 
 ```
 sudo apt install gthumb
-``
+```
 ### capture screenshot 
 
 ```
