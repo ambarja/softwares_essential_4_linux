@@ -1,10 +1,11 @@
 ### Edit image 
 
+#### The best
 ```
 sudo apt install ksnip
 ```
 
-
+#### + or - 
 ```
 sudo apt install gthumb
 ```
