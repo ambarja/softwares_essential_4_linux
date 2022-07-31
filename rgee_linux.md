@@ -1,8 +1,6 @@
 # Installing dependences of rgee library
 ```
-sudo apt install  libjq-dev
-sudo apt install libprotobuf-dev
-sudo apt install protobuf-compiler
+sudo apt install  libjq-dev libprotobuf-dev protobuf-compiler
 ```
 ```
 install.packages('rgee',dep = T)
